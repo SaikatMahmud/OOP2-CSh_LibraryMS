@@ -125,11 +125,11 @@ namespace LMS_GUI
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point);
-            this.label4.Location = new System.Drawing.Point(0, 448);
+            this.label4.Location = new System.Drawing.Point(4, 487);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(124, 80);
+            this.label4.Size = new System.Drawing.Size(124, 40);
             this.label4.TabIndex = 12;
-            this.label4.Text = "Developed by:\r\nSAIKAT MAHMUD\r\nMD. JAKARIA\r\nSAJIDUL HASAN";
+            this.label4.Text = "Developed by:\r\nSAIKAT MAHMUD";
             // 
             // label6
             // 
