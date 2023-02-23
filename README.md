@@ -5,7 +5,7 @@ Project created using 'Visual Studio 2019' and 'SSMS 2018'
 
 <b>############# Project designs-</b><br/>
 
-![login ds](https://user-images.githubusercontent.com/65038036/220990585-4a06a92f-ab29-4ee0-acd1-96024b6fe9a6.PNG)
+![login ds](https://user-images.githubusercontent.com/65038036/220990585-4a06a92f-ab29-4ee0-acd1-96024b6fe9a6.PNG){:height="36px" width="36px"}
 ![signup ds](https://user-images.githubusercontent.com/65038036/220990568-97f5d9b7-7feb-4934-b486-c6b52f65c45f.PNG)
 ![homePage ds](https://user-images.githubusercontent.com/65038036/220990820-247ed5fd-2314-4373-bbf2-85808335c1e4.PNG)
 ![trackInfo ds](https://user-images.githubusercontent.com/65038036/220990855-0ed3b84e-b8b2-40ea-b9cc-359ed176f649.PNG)
